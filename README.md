@@ -1,0 +1,4 @@
+edge-downloader
+===============
+
+Chrome extension
